@@ -5,6 +5,12 @@ Strings passed in will consist of only letters and spaces.
 Spaces will be included only when more than one word is present.
 
 
+Examples:
+"Hey fellow warriors"  --> "Hey wollef sroirraw" 
+"This is a test        --> "This is a test" 
+"This is another test" --> "This is rehtona test"
+
+
 Solution:
 function spinWords(str) {
     return str
