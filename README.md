@@ -1,1 +1,1 @@
-# codewars_kata
+Codewars Kata practises
